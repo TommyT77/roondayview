@@ -114,9 +114,9 @@ Testing documentation [click here](https://docs.google.com/spreadsheets/d/1jiFlD
 
 # Commits:
 
-David Github commits [Click here](https://github.com/david10382/roondayview/commits/main)
+David Github commits [Click here](https://github.com/david10382/roondayview/commits/main?author=david10382)
 
-Tommy Github commits [Click here](https://github.com/TommyT77/roondayview/commits/main)
+Tommy Github commits [Click here](https://github.com/TommyT77/roondayview/commits/main?author=TommyT77)
 
 ---
 # Problem Identified
