@@ -33,7 +33,7 @@ Changes from T3A2-A
 
 Installation Guide for Front end/Back end : 
 
-    1. run `npm install`
+    1. run `npm install --force`
 
 
 then 
