@@ -74,7 +74,34 @@ Front-end Dependencies
     autosuggest-highlight
     styled-components
 
-	
+---
+# Registration
+1. Click 'Create new account'
+![](docs/login_instructions/createnewacccount.png)
+2. Enter details into fields
+![](docs/login_instructions/enternewdetails.png)
+3. Click submit
+
+
+# Login 
+
+1. Using the registered details enter {username, password}
+2. Click Login
+
+# Admin Login
+To access Roodayview as Admin:
+1. Click 'Are you an admin?'
+2. Enter admin credentials 
+
+    - username: admin
+    - password: password
+
+![](docs/login_instructions/forAdmin.png)
+
+3. Click Admin Login
+
+![](docs/login_instructions/forAdmin_enterCredentials.png)
+
 
 ---
 # User Manual testing 
